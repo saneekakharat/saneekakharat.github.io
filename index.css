@@ -301,7 +301,7 @@ html {
   text-align: center;
 }
 
-.col-sm :hover{
+.col-sm:hover{
   background: linear-gradient(to right, rgb(177, 91, 218), rgb(230, 189, 75), rgb(46, 170, 253), #00b7c7, #B294FF, #57E6E6);
   background-size: 500% auto;
   background-clip: text;
