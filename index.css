@@ -611,3 +611,6 @@ input:checked + .slider:before {
   max-width: 400px;
   height: auto;
 }
+#hamburger{
+  color: #540094;
+}
